@@ -6,12 +6,12 @@
    <elementGuidId>e61b50c2-af59-403c-81ec-f2c1a7fe926d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='back-to-products']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#back-to-products</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='back-to-products']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>50c5e1e5-7039-4ed2-aee4-44b4fed4e2ce</webElementGuid>
+      <webElementGuid>4f026615-35bc-461d-8873-4e5bc17d03dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn_primary btn_small</value>
-      <webElementGuid>53314685-f614-4b52-9a9f-1054ff33abba</webElementGuid>
+      <webElementGuid>9683cde5-0e89-4d3f-a2f6-7f9721350c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>532436e0-8bc6-4ed7-9797-8f7e4f2ad666</webElementGuid>
+      <webElementGuid>48cd946d-2707-4015-a256-6c9e3cbd696f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>056a555a-b309-4051-b9b8-e4e6e05572e6</webElementGuid>
+      <webElementGuid>ed3bb73a-bcde-4ee2-a270-80c298a77d45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>a07972b3-13f3-44a1-a498-44b46a468c74</webElementGuid>
+      <webElementGuid>2e9d04a8-4548-4552-a939-d9788fe4acd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back Home</value>
-      <webElementGuid>ce9e13d2-ab94-4c5d-bc6a-737c8510b058</webElementGuid>
+      <webElementGuid>f0056b47-2e0d-4a79-b262-0be0865585b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;back-to-products&quot;)</value>
-      <webElementGuid>d7b14894-75e3-4b24-9a7b-53240f31c2f6</webElementGuid>
+      <webElementGuid>5a5c22dd-6e27-419c-9847-f7d8982a6a60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='back-to-products']</value>
-      <webElementGuid>df7f221a-dc56-4330-bc63-def971d68893</webElementGuid>
+      <webElementGuid>64b43bd2-117d-407e-aae0-61100e701e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/button</value>
-      <webElementGuid>16bdc5db-2cf7-48f0-817a-a8ffcec121ba</webElementGuid>
+      <webElementGuid>542740e1-bdf6-4199-96db-84107b465e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>9f0cc93f-4ae8-429e-9ba3-2e32d54d3fec</webElementGuid>
+      <webElementGuid>05c576fd-a098-4201-8234-29139ef44041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'back-to-products' and @name = 'back-to-products' and (text() = 'Back Home' or . = 'Back Home')]</value>
-      <webElementGuid>f39b2694-fc04-4f18-97dc-8c6a7a261a55</webElementGuid>
+      <webElementGuid>0b53dc25-c584-4b61-bc0b-404057837406</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

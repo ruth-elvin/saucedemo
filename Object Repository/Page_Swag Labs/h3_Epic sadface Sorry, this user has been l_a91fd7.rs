@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Sauce Labs Backpack</name>
+   <name>h3_Epic sadface Sorry, this user has been l_a91fd7</name>
    <tag></tag>
-   <elementGuidId>1ff99b13-c95b-4ae4-a01c-88597bacd0d7</elementGuidId>
+   <elementGuidId>44755eaa-6e14-49fa-910c-ec0087c4590a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='item_4_title_link']/div</value>
+         <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>03987291-166e-4ea4-ac17-ed40ad4ce82f</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>acbd8f4e-9d5f-4f01-b1e4-f1b6eda0b0a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-test</name>
       <type>Main</type>
-      <value>inventory_item_name </value>
-      <webElementGuid>102a5c9d-2c4f-430c-9a34-484f1b62c786</webElementGuid>
+      <value>error</value>
+      <webElementGuid>c0109bdd-5066-4e67-935b-e4c226a3660f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sauce Labs Backpack</value>
-      <webElementGuid>51e51968-7723-46be-840c-ece69fa18509</webElementGuid>
+      <value>Epic sadface: Sorry, this user has been locked out.</value>
+      <webElementGuid>49190994-b481-4f85-a331-0de939daadf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;item_4_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>f2400f3c-68bb-49e1-8144-ad40446f6842</webElementGuid>
+      <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]/h3[1]</value>
+      <webElementGuid>e97408d3-b0fd-4fb2-9c45-6050aa070efd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='item_4_title_link']/div</value>
-      <webElementGuid>69356ac0-c4ca-40f6-8e78-d8c520229118</webElementGuid>
+      <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
+      <webElementGuid>3a76bc82-0d5a-46ba-913c-7d5d6c91a238</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/div</value>
-      <webElementGuid>8346ef7c-8a79-43c2-87ab-834e04b7d281</webElementGuid>
+      <value>//h3</value>
+      <webElementGuid>fa22063f-e434-43c7-a07c-1f82d35027fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Sauce Labs Backpack' or . = 'Sauce Labs Backpack')]</value>
-      <webElementGuid>030d2aeb-dc07-4939-ab8f-9e7597aa0f93</webElementGuid>
+      <value>//h3[(text() = 'Epic sadface: Sorry, this user has been locked out.' or . = 'Epic sadface: Sorry, this user has been locked out.')]</value>
+      <webElementGuid>4e1e11c0-7dfc-4d28-9802-b35b2898468c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

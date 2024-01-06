@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Sauce Labs Backpack</name>
+   <name>h3_Error Last Name is required</name>
    <tag></tag>
-   <elementGuidId>1ff99b13-c95b-4ae4-a01c-88597bacd0d7</elementGuidId>
+   <elementGuidId>1fa5a5fb-345f-49d2-93ae-ad900c7e063e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='item_4_title_link']/div</value>
+         <value>//div[@id='checkout_info_container']/div/form/div/div[4]/h3</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>03987291-166e-4ea4-ac17-ed40ad4ce82f</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>ab56b8ff-02ee-484f-90f5-6fc9900a154e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-test</name>
       <type>Main</type>
-      <value>inventory_item_name </value>
-      <webElementGuid>102a5c9d-2c4f-430c-9a34-484f1b62c786</webElementGuid>
+      <value>error</value>
+      <webElementGuid>e1e96bbc-8682-41c7-92df-6573b54b62dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sauce Labs Backpack</value>
-      <webElementGuid>51e51968-7723-46be-840c-ece69fa18509</webElementGuid>
+      <value>Error: Last Name is required</value>
+      <webElementGuid>93837dba-128f-4f85-881f-00ac320eed0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;item_4_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>f2400f3c-68bb-49e1-8144-ad40446f6842</webElementGuid>
+      <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_info&quot;]/div[@class=&quot;error-message-container error&quot;]/h3[1]</value>
+      <webElementGuid>f3171192-5099-455d-b9c2-5e7125ada286</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='item_4_title_link']/div</value>
-      <webElementGuid>69356ac0-c4ca-40f6-8e78-d8c520229118</webElementGuid>
+      <value>//div[@id='checkout_info_container']/div/form/div/div[4]/h3</value>
+      <webElementGuid>7b4b11ed-96c3-44c8-8e5d-5d742bc41cf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/div</value>
-      <webElementGuid>8346ef7c-8a79-43c2-87ab-834e04b7d281</webElementGuid>
+      <value>//h3</value>
+      <webElementGuid>3c036ead-e468-4c28-82d9-7786671f5fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Sauce Labs Backpack' or . = 'Sauce Labs Backpack')]</value>
-      <webElementGuid>030d2aeb-dc07-4939-ab8f-9e7597aa0f93</webElementGuid>
+      <value>//h3[(text() = 'Error: Last Name is required' or . = 'Error: Last Name is required')]</value>
+      <webElementGuid>3453f5cb-7526-4a76-8b3e-cb70f99314ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

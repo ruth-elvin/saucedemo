@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Checkout</name>
+   <name>Login with Error User</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cd70ba67-d1e3-47b1-bde2-3047f1e81c92</testCaseGuid>
+   <testCaseGuid>c69fc740-c402-44bb-b144-12bfa25c7e38</testCaseGuid>
 </TestCaseEntity>

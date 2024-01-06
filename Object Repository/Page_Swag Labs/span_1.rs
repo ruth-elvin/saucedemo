@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Sauce Labs Backpack</name>
+   <name>span_1</name>
    <tag></tag>
-   <elementGuidId>1ff99b13-c95b-4ae4-a01c-88597bacd0d7</elementGuidId>
+   <elementGuidId>5637a8c2-b9ea-4900-b858-1f87a095b97f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='item_4_title_link']/div</value>
+         <key>CSS</key>
+         <value>span.shopping_cart_badge</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='shopping_cart_container']/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>03987291-166e-4ea4-ac17-ed40ad4ce82f</webElementGuid>
+      <value>span</value>
+      <webElementGuid>0fff3779-ba8c-4bc3-90e1-68e4b081294e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inventory_item_name </value>
-      <webElementGuid>102a5c9d-2c4f-430c-9a34-484f1b62c786</webElementGuid>
+      <value>shopping_cart_badge</value>
+      <webElementGuid>6b3f24f1-bc33-4b0d-aa17-7a70c67253a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sauce Labs Backpack</value>
-      <webElementGuid>51e51968-7723-46be-840c-ece69fa18509</webElementGuid>
+      <value>1</value>
+      <webElementGuid>8860603a-3f42-439e-9270-f16a51674251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;item_4_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>f2400f3c-68bb-49e1-8144-ad40446f6842</webElementGuid>
+      <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link&quot;]/span[@class=&quot;shopping_cart_badge&quot;]</value>
+      <webElementGuid>9ec2ae01-67e5-4a7f-8e73-dab9203454ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='item_4_title_link']/div</value>
-      <webElementGuid>69356ac0-c4ca-40f6-8e78-d8c520229118</webElementGuid>
+      <value>//div[@id='shopping_cart_container']/a/span</value>
+      <webElementGuid>9ee61eab-fab6-4241-b5f1-2742bc2941ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/div</value>
-      <webElementGuid>8346ef7c-8a79-43c2-87ab-834e04b7d281</webElementGuid>
+      <value>//span</value>
+      <webElementGuid>305f5406-2109-4a04-a350-d8579dde0ae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Sauce Labs Backpack' or . = 'Sauce Labs Backpack')]</value>
-      <webElementGuid>030d2aeb-dc07-4939-ab8f-9e7597aa0f93</webElementGuid>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>7e7f2b16-60bb-4e35-a2e3-5895d8d0987d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

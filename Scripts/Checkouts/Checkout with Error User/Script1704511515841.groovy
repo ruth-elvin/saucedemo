@@ -21,27 +21,37 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_user-name'), 'standard_user')
+WebUI.rightClick(findTestObject('Object Repository/Page_Swag Labs/input_user-name'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_user-name'), 'error_user')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_password'), 'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_login-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/span_Products'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bike Light'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/span_Your Cart'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/span_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Checkout'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Checkout Your Information'))
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_firstName'), 'ave')
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/span_Checkout Your Information'))
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_lastName'), '')
+
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_postalCode'), '123456')
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_continue'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
 
 WebUI.closeBrowser()
 

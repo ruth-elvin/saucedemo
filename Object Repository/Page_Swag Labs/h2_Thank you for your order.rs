@@ -6,12 +6,12 @@
    <elementGuidId>06de9475-7b37-48ba-bdcd-324892462b12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='checkout_complete_container']/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.complete-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_complete_container']/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>d22a3bf4-7cc1-407e-9eb6-ea892fcf4b5c</webElementGuid>
+      <webElementGuid>1b1f5e8f-5262-4b7c-bbee-949bda21fb3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>complete-header</value>
-      <webElementGuid>a2a8aeef-82a1-47ab-875c-04bdb3ad2f7c</webElementGuid>
+      <webElementGuid>51a01ac3-b486-4b03-948c-4e6e067c05c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Thank you for your order!</value>
-      <webElementGuid>ac6a7e84-f1b0-4c0c-8da8-4668a4f38795</webElementGuid>
+      <webElementGuid>51d1f3ae-61ac-4be9-9b0b-85e7d40da9ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_complete_container&quot;)/h2[@class=&quot;complete-header&quot;]</value>
-      <webElementGuid>1d0bb0ca-fcf1-4095-97ae-a60d37d2ddbf</webElementGuid>
+      <webElementGuid>9ed9637a-2605-4ee1-89ad-80a951fa637f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/h2</value>
-      <webElementGuid>68c4b05f-c8e9-4773-95dd-cf326cfcd7a5</webElementGuid>
+      <webElementGuid>8b594e00-a6c7-4b78-8346-4abb53c4625d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>e44654b4-7126-46de-b6ce-4e16ff56ee37</webElementGuid>
+      <webElementGuid>f8f7b13d-565c-4b47-9035-5899df2b5ee6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Thank you for your order!' or . = 'Thank you for your order!')]</value>
-      <webElementGuid>095bc9d4-e97c-42e7-b429-ff78a92c4391</webElementGuid>
+      <webElementGuid>e8ff0f05-75f6-47c4-bd9a-f815ec7a417c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
